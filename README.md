@@ -6,7 +6,7 @@
 
 3. Use a USB to TTL UART Converter to connect the board and your computer. Note the pin connections.
 
-| Pin on the development 	| Pin on the converter 	|
+| Pin on the dev board	| Pin on the converter 	|
 |------------------------	|----------------------	|
 | RX                     	| TX                   	|
 | TX                     	| RX                   	|
