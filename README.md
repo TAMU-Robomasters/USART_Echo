@@ -6,22 +6,22 @@
 
 3. Use a USB to TTL UART Converter to connect the board and your computer. Note the pin connections.
 
-| Pin on the dev board	| Pin on the converter 	|
-|------------------------	|----------------------	|
-| RX                     	| TX                   	|
-| TX                     	| RX                   	|
+    | Pin on the dev board	| Pin on the converter 	|
+    |------------------------	|----------------------	|
+    | RX                     	| TX                   	|
+    | TX                     	| RX                   	|
 
 4. Identify the COM/serial port that identifies the development board. On Windows, you can use Device Manager.
 
 5. Install Putty. Use the following pictures to change Putty settings.
 
-Set the communication parameters:
+    Set the communication parameters:
 
-![Communication Parameter Putty](Putty_Set_Communication.PNG)
+    ![Communication Parameter Putty](Putty_Set_Communication.PNG)
 
-Set the display parameters:
+    Set the display parameters:
 
-![Display Parameter Putty](Putty_Set_Display.PNG)
+    ![Display Parameter Putty](Putty_Set_Display.PNG)
 
 # Commands You Can Play With
 
